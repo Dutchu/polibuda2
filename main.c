@@ -2,6 +2,10 @@
 
 int main() {
     printf("Hello, World!\n");
-    printf("issue resolved");
+<<<<<<< HEAD
+
+=======
+    printf("Issue 2 resolved");
+>>>>>>> issue_2
     return 0;
 }
